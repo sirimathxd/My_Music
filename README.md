@@ -19,7 +19,7 @@ https://t.me/SIRIMATHCHATBOT
 
 ## :octocat: Credits
 ----------------------------------------------------
-  @Anjana for deezer api 
+[@AnjanaMadu](https://github.com/AnjanaMadu) for deezer api 
 
 ----------------------------------------------------
 ```
